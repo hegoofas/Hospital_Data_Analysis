@@ -20,7 +20,7 @@ The database contains 12 relational tables:
 - Billing  
 - Diagnoses  
 - Drugs  
-
+⏭️https://drive.google.com/drive/folders/1YXjubsOwMWqixMOK5ys7ohpGNys9bK2-?usp=sharing
 This structure enabled comprehensive analysis across patient care, billing, staffing, and medical activities.
 
 ## 🔍 What I Worked On
@@ -88,4 +88,5 @@ Each report includes slicers and navigation controls for a seamless experience.
 - PowerPoint (Design)  
 
 ## 🔗 Project Link
+
 - https://www.linkedin.com/posts/ibrahim-abdulghfar-a0b13a364_hospital-analytics-dashboard-im-excited-activity-7399506122077814784-H26j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpuyCsBNij9rn_9jYrSPVjIHEViYJtJTQY
